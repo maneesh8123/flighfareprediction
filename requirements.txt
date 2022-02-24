@@ -2,7 +2,7 @@ Flask==1.1.2
 gunicorn==19.9.0
 numpy==1.21.5
 pandas
-scikit-learn==0.22.1
+scikit-learn
 Jinja2==2.11.2
 
 
