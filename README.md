@@ -7,7 +7,7 @@ To predict the flight fare with respect to the given features.
 
 ## Features:
 Airline
-Date_of_Journey
+Date_of_Journeyg
 Source
 Destination
 Route
