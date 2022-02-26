@@ -6,15 +6,15 @@ To predict the flight fare with respect to the given features.
 ### Dataser Link : https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
 
 ## Features:
-Airline, 
-Date_of_Journey, 
-Source, 
-Destination, 
-Route, 
-Dep_Time, 
-Arrival_Time, 
-Duration,  
-Total_Stops, 
+Airline  
+Date_of_Journey  
+Source  
+Destination 
+Route  
+Dep_Time  
+Arrival_Time  
+Duration   
+Total_Stops  
 Additional_Info   
 Price
 
