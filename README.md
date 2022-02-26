@@ -15,7 +15,7 @@ Dep_Time,
 Arrival_Time, 
 Duration,  
 Total_Stops, 
-Additional_Info,  
+Additional_Info   
 Price
 
 ## Demo
