@@ -16,7 +16,6 @@ Arrival_Time
 Duration   
 Total_Stops  
 Additional_Info   
-
 Price
 
 ## Demo
@@ -48,7 +47,7 @@ Xgboost and Random forest algorithms are used
 
 ## Technologies used: 
 
-![python-logo](https://user-images.githubusercontent.com/64775171/155834036-94aac412-2916-449e-88b3-2585647f2043.png)  ![68747470733a2f2f666c61736b2e70616c6c65747370726f6a656374732e636f6d2f656e2f312e312e782f5f696d616765732f666c61736b2d6c6f676f2e706e67](https://user-images.githubusercontent.com/64775171/155833997-b02541d2-e8c0-4fcb-971d-7bc169024502.png)
+![python-logo](https://user-images.githubusercontent.com/64775171/155834036-94aac412-2916-449e-88b3-2585647f2043.png)  ![scikit-learn-logo-small](https://user-images.githubusercontent.com/64775171/155834073-cd1e22bf-face-48c9-91b9-0cf63e56af58.png)  ![68747470733a2f2f666c61736b2e70616c6c65747370726f6a656374732e636f6d2f656e2f312e312e782f5f696d616765732f666c61736b2d6c6f676f2e706e67](https://user-images.githubusercontent.com/64775171/155833997-b02541d2-e8c0-4fcb-971d-7bc169024502.png)
 
 
 
